@@ -1,0 +1,11 @@
+Hi I am using both these resources, [USDA Nutrition Database](https://ndb.nal.usda.gov/ndb/) and the [FDA's Reccomended Daily Values](https://www.fda.gov/food/guidanceregulation/guidancedocumentsregulatoryinformation/labelingnutrition/ucm064928.htm),  together. I am having some trouble combining some of the information, presumably due to my ignorance of nutritional science, that hopefully someone can clear up.
+
+1) Iodine, Biotin, Chromium, Molybdenum and Chloride are all missing from USDA database, why would this be?
+
+2) Vitamin E is measured in IU on the FDA website but mg on the USDA database. Is there a way to convert easily? I tried wolfram alpha but it said they can't be converted.
+
+3) There are two entries for Vitamin D on USDA database, Vitamin D measured in IU which I presume corresponds to the FDA one. What is Vitamin D (D2+D3) and why is there no RDA for it?
+
+3) The FDA values are for 2000 kcal a day, is it fair to divide them by 2000 and multiply by the amount of calories I eat to get more correct numbers. I assume their would be some subtleties I am missing doing this but is it a fair estimate? What nutrients would this not be a good estimate for?
+
+4) If I search on the website for a food I get list like [this](https://ndb.nal.usda.gov/ndb/foods/show/6?fgcd=&manu=&lfacet=&format=&count=&max=50&offset=&sort=default&order=asc&qlookup=cheese&ds=Standard+Reference&qt=&qp=&qa=&qn=&q=&ing=) which lists the 'proximates', 'vitamins', 'minerals' 'lipids' and other. This equates to about 30 properties. If I pull the fulldatabase each food has a possible 160 properties
